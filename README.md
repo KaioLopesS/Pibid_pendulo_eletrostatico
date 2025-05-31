@@ -56,7 +56,7 @@ Para executar esta animação, você precisará ter:
 
 *   Python 3.7 ou superior
 *   Manim Community (testado com v0.17.3, mas versões mais recentes devem funcionar)
-    *   Instruções de instalação: [Manim Installation](https://docs.manim.community/en/stable/installation/index.html)
+    *   Instruções de instalação: [Manim Installation](https://docs.manim.community/en/stable/installation/uv.html)
 *   NumPy (geralmente instalado como dependência do Manim)
 *   Uma distribuição LaTeX completa (como MiKTeX para Windows, MacTeX para macOS, ou TeX Live para Linux)
 
