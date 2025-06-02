@@ -4,7 +4,7 @@
 
 Esta animação, desenvolvida com a biblioteca Manim em Python, tem como objetivo ilustrar de forma didática o experimento do pêndulo eletrostático. Através dela, são explorados conceitos fundamentais da eletrostática, como carga elétrica, processos de eletrização (contato), força elétrica de repulsão, e a relação dessas grandezas, culminando na apresentação da Lei de Coulomb.
 
-Este projeto foi desenvolvido como material de apoio para atividades do PIBID Física UFRJ, visando auxiliar na compreensão visual dos fenômenos eletrostáticos.
+Este projeto foi desenvolvido como material de apoio para uma atividade sobre eletrostática do PIBID Física UFRJ, visando auxiliar na compreensão visual dos fenômenos eletrostáticos.
 
 
 ## Conteúdo da Animação
