@@ -13,9 +13,9 @@ A animação é dividida nas seguintes etapas sequenciais:
 
 1.  **Título:** Apresentação do tema "Pêndulo Eletrostático e a Lei de Coulomb".
 2.  **Configuração do Pêndulo:**
-    *   Introdução de um pêndulo simples, com um pivô, um fio e uma esfera (bob) representando a carga \(q_1\), inicialmente neutra.
+    *   Introdução de um pêndulo simples, com um pivô, um fio e uma esfera  representando a carga \(q_1\), inicialmente neutra.
 3.  **Introdução da Carga Fixa:**
-    *   Uma segunda esfera, representando uma carga fixa \(q_2\) (positiva), é aproximada do pêndulo.
+    *   Uma segunda esfera, representando uma carga fixa \(q_2\) (positiva), é aproximada do pêndulo
 4.  **Efeito da Repulsão (Eletrização por Contato):**
     *   A carga \(q_2\) toca a esfera do pêndulo \(q_1\).
     *   Ocorre a eletrização por contato, e \(q_1\) também adquire carga positiva (visualizada pela mudança de cor e um sinal "+").
